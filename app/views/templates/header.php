@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title><?= $data['judul']; ?></title>
-    <link rek="stylesheet" href="http://localhost/belajarmvc/public/css/bootstrap.css">
+    <link rel="stylesheet" href="<?= BASEURL; ?>/css/bootstrap.css">
 </head>
 <body>
 
